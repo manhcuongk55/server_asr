@@ -1,0 +1,7 @@
+ws4py==0.3.2
+tornado
+pyyaml
+grpcio
+grpcio-tools
+requests
+mysql-connector-python
